@@ -8,7 +8,7 @@ I have been working as a frontend developer for multiple platforms from the past
 
 *   🌍  I'm based in Hospet, Karnataka
 *   ✉️  You can contact me at [sudeendrapacharya@gmail.com](mailto:sudeendrapacharya@gmail.com)
-*   🚀  I'm currently working on [Web App called Poultry Farm](http://https://poultry-test-346c9.web.app)
+*   🚀  I'm currently working on [Web App called Poultry Farm](http://poultry-test-346c9.web.app)
 *   🧠  I'm learning React
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
