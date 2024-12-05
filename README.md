@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I have been working as a frontend developer for multiple platforms from the past one year
+I have been working as a frontend developer for multiple platforms from the past three year
 
 *   🌍  I'm based in Hospet, Karnataka
 *   ✉️  You can contact me at [sudeendrapacharya@gmail.com](mailto:sudeendrapacharya@gmail.com)
