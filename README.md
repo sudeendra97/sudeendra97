@@ -7,7 +7,7 @@ I love building scalable apps & clean user experiences across mobile and web.
 
 ## 🚀 About Me  
 - 🌍 Based in **Hospet, Karnataka, India**  
-- 💼 Currently working at **PBG Tech Services**  
+- 💼 Currently working at **TESTYANTRA SOFTWARE SOLUTIONS**  
 - 📱 3+ years of experience in **Flutter & Cross-Platform Development**  
 - ✉️ Reach me at **[sudeendrapacharya@gmail.com](mailto:sudeendrapacharya@gmail.com)**  
 - 🧠 Currently learning **React & iOS Development**  
